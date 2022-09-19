@@ -1,7 +1,7 @@
 """This module defines the main classes used to interact with Harmony.
 
 The classes defined here are also available by importing them from the
-top-level ``harmony`` package, e.g.:
+
 
     from harmony import Client, Request
 
