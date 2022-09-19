@@ -117,3 +117,5 @@ This leaves us with a modifed __init\__.py which must be committed and pushed to
 Then, provided API tokens are in order, the following runs the build target and publishes to PyPI:
 
         $ make publish
+
+xxx - THE END - XXX
