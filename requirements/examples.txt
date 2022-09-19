@@ -1,0 +1,8 @@
+boto3 ~= 1.17
+ipyplot ~= 1.1
+ipywidgets ~= 7.6
+jupyterlab ~= 3.0
+matplotlib ~= 3.3
+pystac ~= 0.5
+rasterio ~= 1.2
+intake-stac ~= 0.3
